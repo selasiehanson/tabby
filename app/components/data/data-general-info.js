@@ -1,0 +1,16 @@
+
+export const NoticesData = {
+    date: (new Date),
+    notices: [
+        {title: 'Anaviosi', info: 'This Wednesday, 25th January Anaviosi is a special joint service of Accra 	Ridge Church and Christ the King Catholic Church, Cantonments and is 	under the theme “Reconciliation: the Love of Christ Compels me”.  The 	Resource person is Fr. Andrew Campbell.  The time is 5:30 p.m.  Come and 	let us worship in the spirit of Ecumenism.'},
+        {title: 'Ghana Prays', info: 'The weekly Wednesday Afternoon Prayer for the Nation continues here in this Church.  The time is 12:00 noon to 1:00 p.m.  Come let us intercede for our nation Ghana.'},
+        {title: '', info: 'There will be training for New Service Leaders in February.  Interested members should pray about it and register at the Church Office.  Younger members of the congregation are especially encouraged to register.'},
+        {title: 'Dues', info: 'Members are reminded that effective 1st January 2017, the annual dues are GH¢180 for adults and GH¢36 for students and pensioners or senior citizens.'},
+        {title: 'Membership', info: 'Are you 18 and above?  Do you regularly worship with us?  Do you want to be a member of the Ridge Church?  Then kindly pick up a form from the Church office and register.  Those who have worshipped regularly with us but have not regularized their membership are also encouraged to do so. Please note:  membership is by completion of necessary forms and not attendance.'},
+        {title: '', info: 'Training of Leaders of Neighbourhood Fellowship in the use of 2017 Bible Study Manual is scheduled for Saturday, 28th January 2017 at 9:00 a.m. at the School Multi-purposes Hall.  All Leaders are kindly requested to attend.  Please come to be blessed and equipped for the task ahead.'},
+        {title: 'Ridge Church School', info: 'To raise awareness of the 60th Anniversary Celebrations of the Ridge Church School, the school is organizing a Press Launch at the Multi-Purpose Hall on Thursday, 26th January 2017 at 9:00 a.m.  The Guest Speaker is Prof. Robert Hinson of the University of Ghana Business School and an Old Ridgean (Pupil).  The Chairperson for the Occasion is H. E. Prof. Akua Kuenyehia, formerly of the International Criminal Court at a the Hague.  All are cordially invited.'},
+        {title: '', info: 'On the occasion of their twenty years of existence, the Zonta Club of Accra are worshipping with us today'},
+        {title: '', info: 'Members of the congregation are advised to be vigilant whenever they come to Church because there are some unidentified persons who come into the Church to steal. Do not leave your bags unattended.'},
+        {title: '', info: 'The Accra Ridge Church and the Anglican Diocese of Accra invites all 	Ridgeans to the Requiem Mass of the late Rev. Canon David Clinton Pain, a 	British National who served in the Anglican Diocese of Accra and Anglican 	Chaplain of the Ridge Church from 1984-1986. Date:		Saturday, 4th February 2017, Venue:	Accra Ridge Church, Time:9:00 a.m. prompt, Attire: White. He was buried in London yesterday, 21st January 2017.  He was 80 years 	old.  May his soul rest in peace.'}
+    ]
+} 
